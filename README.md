@@ -1,6 +1,6 @@
-# Linux DO Theme
+# LINUX DO Theme
 
-一套为 [Linux DO 论坛](https://linux.do) 开发的自定义美化主题。
+一套为 [LINUX DO 论坛](https://linux.do) 开发的自定义美化主题。
 
 ## 功能特点
 
